@@ -1,6 +1,6 @@
 ---
-title: Welcome to Quartz
+title: Welcome, traveller 🏰
 ---
+This is a JS algo book made by Andrei Shingirii and Denis Baranetskii.
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Tread with caution
